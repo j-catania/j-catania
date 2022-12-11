@@ -18,7 +18,13 @@
 ![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/intellij_idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![macos](https://img.shields.io/badge/macos-ffffff.svg?style=for-the-badge&logo=macos&logoColor=black)
-![telsa](https://img.shields.io/badge/TM3-CC0000.svg?style=for-the-badge&logo=tesla&logoColor=black)
+![telsa](https://img.shields.io/badge/TM3-CC0000.svg?style=for-the-badge&logo=tesla&logoColor=white)
+![ionic](https://img.shields.io/badge/ionic-3880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
+![angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![react](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![cra](https://img.shields.io/badge/cra-09D3AC.svg?style=for-the-badge&logo=createreactapp&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### GitHub Stats :octocat:
 ![Stats](https://github-readme-stats.vercel.app/api?username=j-catania&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
