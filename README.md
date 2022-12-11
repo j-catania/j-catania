@@ -24,6 +24,7 @@
 ![react](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![cra](https://img.shields.io/badge/cra-09D3AC.svg?style=for-the-badge&logo=createreactapp&logoColor=white)
+![debian](https://img.shields.io/badge/debian-A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![hugo](https://img.shields.io/badge/hugo-FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white)
 ![typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
