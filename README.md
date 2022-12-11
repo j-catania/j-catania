@@ -31,6 +31,9 @@
 ![ansible](https://img.shields.io/badge/ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![packer](https://img.shields.io/badge/packer-02A8EF.svg?style=for-the-badge&logo=packer&logoColor=white)
 ![terraform](https://img.shields.io/badge/terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![semver](https://img.shields.io/badge/semver-3F4551.svg?style=for-the-badge&logo=semver&logoColor=white)
+![json](https://img.shields.io/badge/json-000000.svg?style=for-the-badge&logo=json&logoColor=white)
+![jsonwebtokens](https://img.shields.io/badge/jsonwebtokens-7B42BC.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### GitHub Stats :octocat:
 ![Stats](https://github-readme-stats.vercel.app/api?username=j-catania&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
