@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+old [@capgemini](https://github.com/capgemini), now [@societe-generale](https://github.com/societe-generale), [@helpmii-team](https://github.com/helpmii-team) and [@ynovaixcampus](https://github.com/juu-aix-ynov-campus)
 
 ### Skills ⚡
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -20,6 +20,8 @@
 ![macos](https://img.shields.io/badge/macos-ffffff.svg?style=for-the-badge&logo=macos&logoColor=black)
 ![telsa](https://img.shields.io/badge/TM3-CC0000.svg?style=for-the-badge&logo=tesla&logoColor=white)
 ![ionic](https://img.shields.io/badge/ionic-3880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
+![capacitor](https://img.shields.io/badge/capacitor-119EFF.svg?style=for-the-badge&logo=capacitor&logoColor=white)
+![apachecordova](https://img.shields.io/badge/apachecordova-E8E8E8.svg?style=for-the-badge&logo=apachecordova&logoColor=white)
 ![angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![react](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -37,6 +39,9 @@
 ![semver](https://img.shields.io/badge/semver-3F4551.svg?style=for-the-badge&logo=semver&logoColor=white)
 ![json](https://img.shields.io/badge/json-000000.svg?style=for-the-badge&logo=json&logoColor=white)
 ![jsonwebtokens](https://img.shields.io/badge/jsonwebtokens-7B42BC.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![grafana](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![kibana](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white)
 
 ### GitHub Stats :octocat:
 ![Stats](https://github-readme-stats.vercel.app/api?username=j-catania&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
