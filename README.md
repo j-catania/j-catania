@@ -25,6 +25,7 @@
 ![vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![cra](https://img.shields.io/badge/cra-09D3AC.svg?style=for-the-badge&logo=createreactapp&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![hugo](https://img.shields.io/badge/hugo-FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white)
 
 ### GitHub Stats :octocat:
 ![Stats](https://github-readme-stats.vercel.app/api?username=j-catania&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
