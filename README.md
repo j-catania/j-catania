@@ -16,8 +16,9 @@
 ![GitHub Sponsors](https://img.shields.io/badge/github_sponsors-EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)
 ![markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![intellijidea](https://img.shields.io/badge/intelli_jidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
-![macos](https://img.shields.io/badge/macos-000000.svg?style=for-the-badge&logo=macos&logoColor=white)
+![intellijidea](https://img.shields.io/badge/intellij_idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+![macos](https://img.shields.io/badge/macos-ffffff.svg?style=for-the-badge&logo=macos&logoColor=black)
+![telsa](https://img.shields.io/badge/TM3-CC0000.svg?style=for-the-badge&logo=tesla&logoColor=black)
 
 ### GitHub Stats :octocat:
 ![Stats](https://github-readme-stats.vercel.app/api?username=j-catania&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
