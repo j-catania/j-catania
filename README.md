@@ -27,6 +27,10 @@
 ![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![hugo](https://img.shields.io/badge/hugo-FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white)
 ![typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![aws](https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ansible](https://img.shields.io/badge/ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![packer](https://img.shields.io/badge/packer-02A8EF.svg?style=for-the-badge&logo=packer&logoColor=white)
+![terraform](https://img.shields.io/badge/terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### GitHub Stats :octocat:
 ![Stats](https://github-readme-stats.vercel.app/api?username=j-catania&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
