@@ -1,7 +1,25 @@
 ### Hi there 👋
 
 
-### GitHub :octocat:
+### Skills ⚡
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![nodejs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![GitHub Pages](https://img.shields.io/badge/github_pages-222222.svg?style=for-the-badge&logo=githubpages&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Sponsors](https://img.shields.io/badge/github_sponsors-EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)
+![markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![intellijidea](https://img.shields.io/badge/intelli_jidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+![macos](https://img.shields.io/badge/macos-000000.svg?style=for-the-badge&logo=macos&logoColor=white)
+
+### GitHub Stats :octocat:
 ![Stats](https://github-readme-stats.vercel.app/api?username=j-catania&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j-catania&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
