@@ -43,6 +43,9 @@ old [@capgemini](https://github.com/capgemini), now [@societe-generale](https://
 ![prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![kibana](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white)
 
+### Teach
+### Open-Source
+
 ### GitHub Stats :octocat:
 ![Stats](https://github-readme-stats.vercel.app/api?username=j-catania&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
 
