@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+### GitHub :octocat:
+![Stats](https://github-readme-stats.vercel.app/api?username=j-catania&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j-catania&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=j-catania&theme=dark&hide_border=true) 
+
 <!--
 **j-catania/j-catania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
