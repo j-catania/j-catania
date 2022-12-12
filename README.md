@@ -30,7 +30,7 @@ old [@capgemini](https://github.com/capgemini), now [@societe-generale](https://
 ![telsa](https://img.shields.io/badge/TM3-CC0000.svg?style=for-the-badge&logo=tesla&logoColor=white)
 ![ionic](https://img.shields.io/badge/ionic-3880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
 ![capacitor](https://img.shields.io/badge/capacitor-119EFF.svg?style=for-the-badge&logo=capacitor&logoColor=white)
-![apachecordova](https://img.shields.io/badge/apachecordova-E8E8E8.svg?style=for-the-badge&logo=apachecordova&logoColor=white)
+![apachecordova](https://img.shields.io/badge/apachecordova-E8E8E8.svg?style=for-the-badge&logo=apachecordova&logoColor=black)
 ![angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![react](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
