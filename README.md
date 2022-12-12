@@ -10,7 +10,7 @@ old [@capgemini](https://github.com/capgemini), now [@societe-generale](https://
   <a target="_blank" href="https://www.webcomponents.org/author/Juu-"><img height="32" width="32" src="https://cdn.simpleicons.org/webcomponentsdotorg"/></a>
 </p>
 
-### Skills ⚡
+### Skills and Tools ⚡
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
@@ -58,6 +58,7 @@ old [@capgemini](https://github.com/capgemini), now [@societe-generale](https://
 ![Material Design](https://img.shields.io/badge/MaterialDesign-757575.svg?style=for-the-badge&logo=MaterialDesign&logoColor=white)
 ![Material Design Icons](https://img.shields.io/badge/MaterialDesignIcons-2196F3.svg?style=for-the-badge&logo=MaterialDesignIcons&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white)
+![KeePassXC](https://img.shields.io/badge/KeePassXC-6CAC4D.svg?style=for-the-badge&logo=KeePassXC&logoColor=white)
 
 ### Teach
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
