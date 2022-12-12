@@ -59,6 +59,8 @@ old [@capgemini](https://github.com/capgemini), now [@societe-generale](https://
 ![Material Design Icons](https://img.shields.io/badge/MaterialDesignIcons-2196F3.svg?style=for-the-badge&logo=MaterialDesignIcons&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white)
 ![KeePassXC](https://img.shields.io/badge/KeePassXC-6CAC4D.svg?style=for-the-badge&logo=KeePassXC&logoColor=white)
+![xcode](https://img.shields.io/badge/xcode-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)
 
 ### Teach
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
