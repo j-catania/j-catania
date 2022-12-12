@@ -62,6 +62,7 @@ old [@capgemini](https://github.com/capgemini), now [@societe-generale](https://
 ![xcode](https://img.shields.io/badge/xcode-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)
+![swift](https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Teach
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
