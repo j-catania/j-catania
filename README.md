@@ -1,7 +1,7 @@
 ### Hi there 👋
 old [@capgemini](https://github.com/capgemini), now [@societe-generale](https://github.com/societe-generale), [@helpmii-team](https://github.com/helpmii-team) and [@ynovaixcampus](https://github.com/juu-aix-ynov-campus)
 
-[my blog here](https://blog.jcatania.io/)
+[my blog here](https://blog.jcatania.io/) - [old website](https://j-catania.github.io/jcatania.io/)
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/LinkedIn"/>](https://fr.linkedin.com/in/julien-catania-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-11952032)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/AppStore"/>](https://apps.apple.com/us/developer/julien-catania/id1073241837)
