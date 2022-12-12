@@ -51,8 +51,15 @@ old [@capgemini](https://github.com/capgemini), now [@societe-generale](https://
 ![grafana](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![kibana](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white)
+![eslint](https://img.shields.io/badge/eslint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
+![prettier](https://img.shields.io/badge/prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=white)
 
 ### Teach
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![ionic](https://img.shields.io/badge/ionic-3880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
+![angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ### Open-Source
 [![x-typing-text](https://github-readme-stats.vercel.app/api/pin/?username=j-catania&repo=x-typing-text&show_owner=true)](https://github.com/j-catania/x-typing-text)
 [![ngx-apple-signin](https://github-readme-stats.vercel.app/api/pin/?username=j-catania&repo=ngx-apple-signin&show_owner=true)](https://github.com/j-catania/ngx-apple-signin)
