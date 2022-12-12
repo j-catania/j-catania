@@ -1,5 +1,5 @@
 ### Hi there 👋
-old [@capgemini](https://github.com/capgemini), now [@societe-generale](https://github.com/societe-generale), [@helpmii-team](https://github.com/helpmii-team) and [@ynovaixcampus](https://github.com/juu-aix-ynov-campus)
+[@societe-generale](https://github.com/societe-generale), [@helpmii-team](https://github.com/helpmii-team) and [@ynovaixcampus](https://github.com/juu-aix-ynov-campus). past [@capgemini](https://github.com/capgemini)
 
 [blog](https://blog.jcatania.io/) - [old website](https://j-catania.github.io/jcatania.io/)
 <p align="center">
