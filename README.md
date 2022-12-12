@@ -41,6 +41,7 @@ old [@capgemini](https://github.com/capgemini), now [@societe-generale](https://
 ![socketdotio](https://img.shields.io/badge/hugo-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![aws](https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![ansible](https://img.shields.io/badge/ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![packer](https://img.shields.io/badge/packer-02A8EF.svg?style=for-the-badge&logo=packer&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -54,6 +55,9 @@ old [@capgemini](https://github.com/capgemini), now [@societe-generale](https://
 ![eslint](https://img.shields.io/badge/eslint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
 ![prettier](https://img.shields.io/badge/prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=white)
 ![amazons3](https://img.shields.io/badge/amazons3-569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white)
+![Material Design](https://img.shields.io/badge/MaterialDesign-757575.svg?style=for-the-badge&logo=MaterialDesign&logoColor=white)
+![Material Design Icons](https://img.shields.io/badge/MaterialDesignIcons-2196F3.svg?style=for-the-badge&logo=MaterialDesignIcons&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white)
 
 ### Teach
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
