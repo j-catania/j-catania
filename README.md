@@ -60,6 +60,7 @@ old [@capgemini](https://github.com/capgemini), now [@societe-generale](https://
 ![MUI](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white)
 ![KeePassXC](https://img.shields.io/badge/KeePassXC-6CAC4D.svg?style=for-the-badge&logo=KeePassXC&logoColor=white)
 ![xcode](https://img.shields.io/badge/xcode-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)
 
 ### Teach
