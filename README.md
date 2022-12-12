@@ -3,7 +3,7 @@ old [@capgemini](https://github.com/capgemini), now [@societe-generale](https://
 
 [blog](https://blog.jcatania.io/) - [old website](https://j-catania.github.io/jcatania.io/)
 <p align="center">
-  <a target="_blank" href="https://fr.linkedin.com/in/julien-catania-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-11952032"><img height="32" width="32" src="https://cdn.simpleicons.org/LinkedIn"/></a>
+  <a href="https://fr.linkedin.com/in/julien-catania-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-11952032" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/LinkedIn"/></a>
   <a target="_blank" href="https://apps.apple.com/us/developer/julien-catania/id1073241837"><img height="32" width="32" src="https://cdn.simpleicons.org/AppStore"/></a>
   <a target="_blank" href="https://play.google.com/store/apps/developer?id=Julien+CATANIA"><img height="32" width="32" src="https://cdn.simpleicons.org/GooglePlay"/></a>
   <a target="_blank" href="https://www.npmjs.com/~juu"><img height="32" width="32" src="https://cdn.simpleicons.org/npm"/></a>
