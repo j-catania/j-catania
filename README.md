@@ -1,6 +1,14 @@
 ### Hi there 👋
 old [@capgemini](https://github.com/capgemini), now [@societe-generale](https://github.com/societe-generale), [@helpmii-team](https://github.com/helpmii-team) and [@ynovaixcampus](https://github.com/juu-aix-ynov-campus)
 
+[my blog here](https://blog.jcatania.io/)
+
+[<img height="32" width="32" src="https://cdn.simpleicons.org/LinkedIn"/>](https://fr.linkedin.com/in/julien-catania-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-11952032)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/AppStore"/>](https://apps.apple.com/us/developer/julien-catania/id1073241837)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/GooglePlay"/>](https://play.google.com/store/apps/developer?id=Julien+CATANIA)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/npm"/>](https://www.npmjs.com/~juu)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/webcomponentsdotorg"/>](https://www.webcomponents.org/author/Juu-)
+
 ### Skills ⚡
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
