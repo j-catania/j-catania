@@ -71,6 +71,7 @@
 ![ionic](https://img.shields.io/badge/ionic-3880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
 ![angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ### Open-Source
+[![TeslaSentinelViewer](https://github-readme-stats.vercel.app/api/pin/?username=j-catania&repo=TeslaSentinelViewer&show_owner=true)](https://github.com/j-catania/TeslaSentinelViewer)
 [![x-typing-text](https://github-readme-stats.vercel.app/api/pin/?username=j-catania&repo=x-typing-text&show_owner=true)](https://github.com/j-catania/x-typing-text)
 [![ngx-apple-signin](https://github-readme-stats.vercel.app/api/pin/?username=j-catania&repo=ngx-apple-signin&show_owner=true)](https://github.com/j-catania/ngx-apple-signin)
 [![apple-darkmode-example](https://github-readme-stats.vercel.app/api/pin/?username=j-catania&repo=apple-darkmode-example&show_owner=true)](https://github.com/j-catania/apple-darkmode-example)
