@@ -80,7 +80,6 @@
 [![TeslaSentinelViewer](https://github-readme-stats.vercel.app/api/pin/?username=j-catania&repo=TeslaSentinelViewer&show_owner=true)](https://github.com/j-catania/TeslaSentinelViewer)
 [![x-typing-text](https://github-readme-stats.vercel.app/api/pin/?username=j-catania&repo=x-typing-text&show_owner=true)](https://github.com/j-catania/x-typing-text)
 [![ngx-apple-signin](https://github-readme-stats.vercel.app/api/pin/?username=j-catania&repo=ngx-apple-signin&show_owner=true)](https://github.com/j-catania/ngx-apple-signin)
-[![apple-darkmode-example](https://github-readme-stats.vercel.app/api/pin/?username=j-catania&repo=apple-darkmode-example&show_owner=true)](https://github.com/j-catania/apple-darkmode-example)
 
 ### GitHub Stats :octocat:
 ![Stats](https://github-readme-stats.vercel.app/api?username=j-catania&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
