@@ -65,12 +65,17 @@
 ![swift](https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![electron](https://img.shields.io/badge/electron-47848F.svg?style=for-the-badge&logo=electron&logoColor=white)
 
-### Teach
+### Teach 🎓
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![ionic](https://img.shields.io/badge/ionic-3880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
+![jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![react](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![swift](https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
 ### Open-Source
 [![TeslaSentinelViewer](https://github-readme-stats.vercel.app/api/pin/?username=j-catania&repo=TeslaSentinelViewer&show_owner=true)](https://github.com/j-catania/TeslaSentinelViewer)
 [![x-typing-text](https://github-readme-stats.vercel.app/api/pin/?username=j-catania&repo=x-typing-text&show_owner=true)](https://github.com/j-catania/x-typing-text)
