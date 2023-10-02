@@ -76,7 +76,8 @@
 ![angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![react](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![swift](https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
-### Open-Source
+### Contributions
+[![test-reporter](https://github-readme-stats.vercel.app/api/pin/?username=dorny&repo=test-reporter&show_owner=true)](https://github.com/dorny/test-reporter)
 [![TeslaSentinelViewer](https://github-readme-stats.vercel.app/api/pin/?username=j-catania&repo=TeslaSentinelViewer&show_owner=true)](https://github.com/j-catania/TeslaSentinelViewer)
 [![x-typing-text](https://github-readme-stats.vercel.app/api/pin/?username=j-catania&repo=x-typing-text&show_owner=true)](https://github.com/j-catania/x-typing-text)
 [![ngx-apple-signin](https://github-readme-stats.vercel.app/api/pin/?username=j-catania&repo=ngx-apple-signin&show_owner=true)](https://github.com/j-catania/ngx-apple-signin)
