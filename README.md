@@ -1,4 +1,6 @@
 ### Hi there 👋
+_Dad | Husband | Geek | Tech Lead | Teacher_
+
 [@societe-generale](https://github.com/societe-generale), [@helpmii-team](https://github.com/helpmii-team) and [@ynovaixcampus](https://github.com/juu-aix-ynov-campus). past [@capgemini](https://github.com/capgemini)
 
 [blog](https://blog.jcatania.io/) - [old website](https://j-catania.github.io/jcatania.io/)
@@ -8,6 +10,7 @@
   <a target="_blank" href="https://play.google.com/store/apps/developer?id=Julien+CATANIA"><img height="32" width="32" src="https://cdn.simpleicons.org/GooglePlay"/></a>
   <a target="_blank" href="https://www.npmjs.com/~juu"><img height="32" width="32" src="https://cdn.simpleicons.org/npm"/></a>
   <a target="_blank" href="https://www.webcomponents.org/author/Juu-"><img height="32" width="32" src="https://cdn.simpleicons.org/webcomponentsdotorg"/></a>
+  <a target="_blank" href="https://hub.docker.com/u/juuu"><img height="32" width="32" src="https://cdn.simpleicons.org/docker"/></a>
 </p>
 
 ### Skills and Tools ⚡
