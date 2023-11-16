@@ -77,11 +77,12 @@
 ![react](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![swift](https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-### Contributions
+
+### Contributions 💻
 [![test-reporter](https://github-readme-stats.vercel.app/api/pin/?username=dorny&repo=test-reporter&show_owner=true)](https://github.com/dorny/test-reporter)
+[![emusk](https://github-readme-stats.vercel.app/api/pin/?username=j-catania&repo=emusk&show_owner=true)](https://github.com/j-catania/emusk)
 [![TeslaSentinelViewer](https://github-readme-stats.vercel.app/api/pin/?username=j-catania&repo=TeslaSentinelViewer&show_owner=true)](https://github.com/j-catania/TeslaSentinelViewer)
 [![x-typing-text](https://github-readme-stats.vercel.app/api/pin/?username=j-catania&repo=x-typing-text&show_owner=true)](https://github.com/j-catania/x-typing-text)
-[![ngx-apple-signin](https://github-readme-stats.vercel.app/api/pin/?username=j-catania&repo=ngx-apple-signin&show_owner=true)](https://github.com/j-catania/ngx-apple-signin)
 
 ### GitHub Stats :octocat:
 ![Stats](https://github-readme-stats.vercel.app/api?username=j-catania&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
