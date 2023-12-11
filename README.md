@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 _Dad | Husband | Geek | Tech Lead | Teacher - Just a guy loving tech_
 
 [@societe-generale](https://github.com/societe-generale), [@helpmii-team](https://github.com/helpmii-team) and [@ynovaixcampus](https://github.com/juu-aix-ynov-campus). past [@capgemini](https://github.com/capgemini)
@@ -33,7 +33,6 @@ _Dad | Husband | Geek | Tech Lead | Teacher - Just a guy loving tech_
 ![telsa](https://img.shields.io/badge/TM3-CC0000.svg?style=for-the-badge&logo=tesla&logoColor=white)
 ![ionic](https://img.shields.io/badge/ionic-3880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
 ![capacitor](https://img.shields.io/badge/capacitor-119EFF.svg?style=for-the-badge&logo=capacitor&logoColor=white)
-![apachecordova](https://img.shields.io/badge/apachecordova-E8E8E8.svg?style=for-the-badge&logo=apachecordova&logoColor=black)
 ![angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![react](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -45,16 +44,12 @@ _Dad | Husband | Geek | Tech Lead | Teacher - Just a guy loving tech_
 ![typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![aws](https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![ansible](https://img.shields.io/badge/ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![packer](https://img.shields.io/badge/packer-02A8EF.svg?style=for-the-badge&logo=packer&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![terraform](https://img.shields.io/badge/terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![semver](https://img.shields.io/badge/semver-3F4551.svg?style=for-the-badge&logo=semver&logoColor=white)
 ![json](https://img.shields.io/badge/json-000000.svg?style=for-the-badge&logo=json&logoColor=white)
 ![jsonwebtokens](https://img.shields.io/badge/jsonwebtokens-7B42BC.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![grafana](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![kibana](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white)
 ![eslint](https://img.shields.io/badge/eslint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
 ![prettier](https://img.shields.io/badge/prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=white)
 ![amazons3](https://img.shields.io/badge/amazons3-569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white)
@@ -64,9 +59,16 @@ _Dad | Husband | Geek | Tech Lead | Teacher - Just a guy loving tech_
 ![KeePassXC](https://img.shields.io/badge/KeePassXC-6CAC4D.svg?style=for-the-badge&logo=KeePassXC&logoColor=white)
 ![xcode](https://img.shields.io/badge/xcode-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)
+
+## Additionals skills ⚡
 ![swift](https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![electron](https://img.shields.io/badge/electron-47848F.svg?style=for-the-badge&logo=electron&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)
+![kibana](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white)
+![terraform](https://img.shields.io/badge/terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![ansible](https://img.shields.io/badge/ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![packer](https://img.shields.io/badge/packer-02A8EF.svg?style=for-the-badge&logo=packer&logoColor=white)
+![apachecordova](https://img.shields.io/badge/apachecordova-E8E8E8.svg?style=for-the-badge&logo=apachecordova&logoColor=black)
 
 ### Teach 🎓
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
