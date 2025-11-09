@@ -1,7 +1,7 @@
 ## Hi there 👋
 _Dad*2 | Husband | Geek | Frontend Architect | Frontend Expert | Teacher - Just a guy loving tech_
 
-[@societe-generale](https://github.com/societe-generale), [@helpmii-team](https://github.com/helpmii-team) and [@ynovaixcampus](https://github.com/juu-aix-ynov-campus). past [@capgemini](https://github.com/capgemini)
+[@societe-generale](https://github.com/societe-generale). past [@helpmii-team](https://github.com/helpmii-team), [@ynovaixcampus](https://github.com/juu-aix-ynov-campus) and [@capgemini](https://github.com/capgemini)
 
 [blog](https://blog.jcatania.io/) - [old website](https://j-catania.github.io/jcatania.io/)
 <p align="center">
@@ -19,7 +19,9 @@ _Dad*2 | Husband | Geek | Frontend Architect | Frontend Expert | Teacher - Just 
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![nodejs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![vitest](https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
@@ -50,6 +52,7 @@ _Dad*2 | Husband | Geek | Frontend Architect | Frontend Expert | Teacher - Just 
 ![jsonwebtokens](https://img.shields.io/badge/jsonwebtokens-7B42BC.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![grafana](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![opentelemetry](https://img.shields.io/badge/opentelemetry-000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![eslint](https://img.shields.io/badge/eslint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
 ![prettier](https://img.shields.io/badge/prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=white)
 ![amazons3](https://img.shields.io/badge/amazons3-569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white)
