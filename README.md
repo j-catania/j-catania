@@ -1,7 +1,7 @@
 ## Hi there 👋
 _Dad*2 | Husband | Geek | Frontend Architect | Frontend Expert | Teacher - Just a guy loving tech_
 
-[@societe-generale](https://github.com/societe-generale). past [@helpmii-team](https://github.com/helpmii-team), [@ynovaixcampus](https://github.com/juu-aix-ynov-campus) and [@capgemini](https://github.com/capgemini)
+Frontend Architect and Expert [@societe-generale](https://github.com/societe-generale). Former CTO [@helpmii-team](https://github.com/helpmii-team), Teacher [@ynovaixcampus](https://github.com/juu-aix-ynov-campus) and engineer [@capgemini](https://github.com/capgemini)
 
 [blog](https://blog.jcatania.io/) - [old website](https://j-catania.github.io/jcatania.io/)
 <p align="center">
