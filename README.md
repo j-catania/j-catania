@@ -47,6 +47,9 @@ Frontend Architect and Expert [@societe-generale](https://github.com/societe-gen
 ![GNU Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
 ![webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white)
 ![apache](https://img.shields.io/badge/apache-D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
+![claude](https://img.shields.io/badge/claude-D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+![githubcopilot](https://img.shields.io/badge/githubcopilot-000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![opencode](https://img.shields.io/badge/opencode-000000.svg?style=for-the-badge&logo=opencode&logoColor=white)
 
 ## Additionals skills ⚡
 ![vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
