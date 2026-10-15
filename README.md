@@ -5,7 +5,7 @@ Frontend Architect and Expert [@societe-generale](https://github.com/societe-gen
 
 [blog](https://blog.jcatania.io/) - [old website](https://j-catania.github.io/jcatania.io/)
 <p align="center">
-  <a href="https://fr.linkedin.com/in/julien-catania-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-11952032" target="_blank"><img height="32" width="32" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-download-fg-dsk-v01.png/jcr:content/renditions/brand-inlogo-download-fg-dsk-v01-2x.png"/></a>
+  <a href="https://fr.linkedin.com/in/julien-catania-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-11952032" target="_blank"><img height="32" width="32" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail"/></a>
   <a target="_blank" href="https://apps.apple.com/us/developer/julien-catania/id1073241837"><img height="32" width="32" src="https://cdn.simpleicons.org/AppStore"/></a>
   <a target="_blank" href="https://play.google.com/store/apps/developer?id=Julien+CATANIA"><img height="32" width="32" src="https://cdn.simpleicons.org/GooglePlay"/></a>
   <a target="_blank" href="https://www.npmjs.com/~juu"><img height="32" width="32" src="https://cdn.simpleicons.org/npm"/></a>
