@@ -3,7 +3,6 @@ _Dad*2 | Husband | Geek | Frontend Architect | Frontend Expert | Teacher - Just 
 
 Frontend Architect and Expert [@societe-generale](https://github.com/societe-generale). Former CTO [@helpmii-team](https://github.com/helpmii-team), Teacher [@ynovaixcampus](https://github.com/juu-aix-ynov-campus) and engineer [@capgemini](https://github.com/capgemini)
 
-[blog](https://blog.jcatania.io/) - [old website](https://j-catania.github.io/jcatania.io/)
 <p align="center">
   <a href="https://fr.linkedin.com/in/julien-catania-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-11952032" target="_blank"><img height="32" width="32" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail"/></a>
   <a target="_blank" href="https://apps.apple.com/us/developer/julien-catania/id1073241837"><img height="32" width="32" src="https://cdn.simpleicons.org/AppStore"/></a>
