@@ -46,7 +46,7 @@ Frontend Architect and Expert [@societe-generale](https://github.com/societe-gen
 ![MUI](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
 ![webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white)
-![opentelemetry](https://img.shields.io/badge/opentelemetry-000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![apache](https://img.shields.io/badge/apache-D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ## Additionals skills ⚡
 ![vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
